@@ -53,8 +53,9 @@ a{
     position: relative;
 }
 
+
 .bg-color{
-    background-color: #8dae40 ;   
+    background-color:  #7cc576 ;   
     /* var(--bs-dark-primary) */
 }
 
@@ -145,6 +146,7 @@ a{
 /*shape divider start */
 
 .custom-shape-divider-bottom-1684208460 {
+    display: flex;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -158,7 +160,7 @@ a{
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 150px;
+    height: 100px;
 }
 
 .custom-shape-divider-bottom-1684208460 .shape-fill {
