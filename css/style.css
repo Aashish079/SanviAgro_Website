@@ -426,3 +426,6 @@ a {
 .form-control{
   text-align: left;
 }
+.google-maps{
+  height: 216px!important;
+}
